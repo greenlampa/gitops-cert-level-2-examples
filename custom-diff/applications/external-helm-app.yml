@@ -29,4 +29,4 @@ spec:
   - group: core
     kind: Secret
     jsonPointers:
-    - /data/my-password
+    - /data
